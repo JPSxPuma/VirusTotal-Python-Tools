@@ -5,7 +5,7 @@ import urllib2
 import urllib
 import json
 
-VIRUSTOTAL_API2_KEY = 'a8265f6e0696413e304ee2744eb0ed93b52f72b7f7f0b2bfd2acdde3e67ee6cf'
+VIRUSTOTAL_API2_KEY = ''
 VIRUSTOTAL_REPORT_URL = "https://www.virustotal.com/vtapi/v2/file/report"
 hash_list = []
 counter = 0
